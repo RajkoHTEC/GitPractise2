@@ -1,1 +1,2 @@
 Fajl izmenjen u develop branch-u po drugi put
+	Implementiran prvi feature
