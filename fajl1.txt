@@ -1,4 +1,3 @@
 Fajl izmenjen u develop branch-u po drugi put
 	-Dodat feature
 
-Izmena na jednoj strani
